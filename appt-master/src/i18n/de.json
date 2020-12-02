@@ -1,0 +1,148 @@
+{
+    "GLOBALS": {
+      "EVALUATION": "Auswertung",
+      "DETAILS": "Einzelheiten",
+      "GLOBALS.ID": "ID",
+      "BEGIN": "Start",
+      "END": "Ende",
+      "VERSION_NUMBER": "Versionsnummer",
+      "USERNAME": "Nutzername",
+      "EMAIL": "Email",
+      "PHONE": "Telefon",
+      "CITY": "Stadt",
+      "ORGANIZATION_OR_SCHOOL": "Organisation oder Schule",
+      "PASSWORD": "Passwort",
+      "ADDRESS": "Adress",
+      "ZIP_CODE": "Postleitzahl",
+      "ROLES": "Rollen",
+      "SUBMIT": "Einreichen",
+      "PUBLIC_KEY": "Öffentlicher Schlüssel",
+      "CONTACT_USER": "Benutzer kontaktieren",
+      "NAME": "Name",
+      "ORDER_NUMBER": "Bestellnummer",
+
+      "REGISTER": "Registrieren",
+      "LOGIN": "Einloggen",
+      "SIGNATURES": "Unterschriften",
+      "SIGNED_STUDENT": "Signierter Student",
+      "SIGNED_STUDENT_DATE": "Signiertes Studentendatum",
+      "SIGNED_SCHOOL": "Signierte Schule",
+      "SIGNED_SCHOOL_DATE": "Datum der Unterzeichnung der Schule",
+      "SIGNED_ORGANIZATION": "Unterzeichnete Organisation",
+      "SIGNED_ORGANIZATION_DATE": "Datum der Unterzeichnung der Organisation",
+      "FILE_UPLOADS": "Datei-Uploads",
+      "MARKED_AS_SIGNED": "Als signiert markiert",
+      "EVALUATE": "Bewerten",
+      "VIEW_ARTICLES": "Artikel anzeigen",
+      "GRADING": "Bewertung",
+      "EDIT": "Bearbeiten",
+      "CONTENT": "Inhalt",
+      "LIST": "List",
+      "HOME": "Zuhause",
+      "FILE_DELETED": "GLOBALS.FILE_DELETED",
+      "FILE_SUCCESSFULLY_DELETED": "GLOBALS.FILE_SUCCESSFULLY_DELETED",
+      "MISSING_STUDENT": "GLOBALS.MISSING_STUDENT",
+      "FILE_UPLOADED": "GLOBALS.FILE_UPLOADED",
+      "FILE_SUCCESSFULLY_UPLOADED": "GLOBALS.FILE_SUCCESSFULLY_UPLOADED",
+      "ERROR_ON_UPLOAD": "GLOBALS.ERROR_ON_UPLOAD",
+      "STUDENT_FILES": "GLOBALS.STUDENT_FILES",
+      "ORGANIZER_FOR_PROPOSE": "GLOBALS.ORGANIZER_FOR_PROPOSE",
+      "YOU_MISSING_FIRST_NAME": "GLOBALS.YOU_MISSING_FIRST_NAME",
+      "YOU_MISSING_LAST_NAME": "GLOBALS.YOU_MISSING_LAST_NAME",
+      "ADMIN_MAIL_MISSING": "GLOBALS.ADMIN_MAIL_MISSING",
+      "VALIDATION_ERROR": "GLOBALS.VALIDATION_ERROR",
+      "ROLE_REQUIRED": "GLOBALS.ROLE_REQUIRED",
+      "WEEK": "GLOBALS.WEEK",
+      "MENTOR_COMMENT": "GLOBALS.MENTOR_COMMENT",
+      "NO_ENTRIES": "GLOBALS.NO_ENTRIES",
+      "WORKLOG_ADDED": "GLOBALS.WORKLOG_ADDED",
+      "YOU_HAVE_SUCCESSFULLY_ADDED_WORKLOG": "GLOBALS.YOU_HAVE_SUCCESSFULLY_ADDED_WORKLOG",
+      "ASSIGNMENT_ADDED": "GLOBALS.ASSIGNMENT_ADDED",
+      "YOU_HAVE_SUCCESSFULLY_ADDED_ASSIGNMENT": "GLOBALS.YOU_HAVE_SUCCESSFULLY_ADDED_ASSIGNMENT",
+      "DELETE": "GLOBALS.DELETE",
+      "PLEASE_ENTER_ALL_ANSWERS": "GLOBALS.PLEASE_ENTER_ALL_ANSWERS",
+      "PRINT": "GLOBALS.PRINT",
+      "BACK_TO_VIEW": "GLOBALS.BACK_TO_VIEW"
+    },
+
+    "USERS": {
+      "EMAIL": "Email",
+      "PHONE": "Telefon",
+      "ADDRESS": "Adress",
+      "CITY": "Stadt",
+      "ZIP": "Postleitzahl",
+      "TITLE": "Titel",
+      "UPLOADS": "Uploads",
+      "YOUR UPLOADS": "Ihre Uploads",
+      "UPLOAD CV": "Lebenslauf hochladen",
+      "STUDENT": "Schüler",
+      "ADD": "Hinzufügen",
+      "ADD_SCHOOL_ADMIN": "Schuladministrator hinzufügen",
+      "ADD_SCHOOL_ORGANIZER": "Schulorganisator hinzufügen",
+      "ADD_ORGANIZATION:ADMIN": "Organisationsadministrator hinzufügen",
+      "ADD_MENTOR": "Mentor hinzufügen",
+      "ADD_STUDENT": "Schüler hinzufügen",
+      "PASSWORD_LENGTH_ERROR": "USERS.PASSWORD_LENGTH_ERROR"
+    },
+
+    "GRADING": {
+      "GRADE": "Klasse",
+      "INSUFFICIENT": "Unzureichend",
+      "Sufficient": "Ausreichend",
+      "GREAT": "Groß"
+    },
+
+    "TEMPLATE_ARTICLES": {
+      "TITLE": "Vorlagenartikel",
+      "ADD": "Hinzufügen"
+    },
+
+    "INTERNSHIPS": {
+      "TITLE": "Praktika"
+    },
+    "ENTERPRISES": {
+      "TITLE_SINGLE": "Unternehmen",
+      "TITLE": "Unternehmen",
+      "ADD": "Hinzufügen",
+      "PURPOSE": "Zweck"
+    },
+
+    "STUDY_MODULES": {
+      "TITLE": "Module"
+    },
+    "COMPETENCES": {
+      "TITLE": "Kompetenzen"
+    },
+
+    "SCHOOLS": {
+      "TITLE": "Schule",
+      "ADD": "Hinzufügen"
+    },
+
+    "STUDY_PROGRAMS": {
+      "TITLE": "Studienprogramm",
+      "ADD": "Hinzufügen"
+    },
+  "ASSIGNMENTS": {
+    "TITLE_SINGLE": "Assignment",
+    "TITLE": "ASSIGNMENTS.TITLE",
+    "ADD": "ASSIGNMENTS.ADD"
+  },
+  "WORKLOG": {
+    "TITLE": "WORKLOG.TITLE",
+    "ADD": "WORKLOG.ADD",
+    "COMMENT": "WORKLOG.COMMENT"
+  },
+  "PRINT": {
+    "TITLE": "Poročilo o izvedbi PRI",
+    "HAS_FROM": "PRINT.HAS_FROM",
+    "TO": "PRINT.TO",
+    "WORKED": "PRINT.WORKED",
+    "AGREEMENT_ABOUT": "PRINT.AGREEMENT_ABOUT",
+    "SUPERVISED_BY": "PRINT.SUPERVISED_BY",
+    "STUDENT_COMPLETED": "PRINT.STUDENT_COMPLETED",
+    "HOURS_OF": "PRINT.HOURS_OF",
+    "SCHOOL_ORGANIZER": "PRINT.SCHOOL_ORGANIZER",
+    "DISCLOSURE": "PRINT.DISCLOSURE"
+  }
+}
